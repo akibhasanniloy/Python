@@ -15,3 +15,9 @@ print("My age is:", age)
 print(type(name))
 print(type(age))
 print(type(price))
+
+old = False
+a = None
+print(type(old))
+print(type(age))
+print(type(a))
