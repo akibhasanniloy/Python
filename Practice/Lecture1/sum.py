@@ -9,3 +9,7 @@ print(diff)
 A , B = 2 , 3
 txt = "@"
 print(1 * txt * 3)
+
+#single line comment
+"""multiple line
+comment"""
