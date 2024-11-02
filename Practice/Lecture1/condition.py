@@ -9,7 +9,8 @@ else:
     print("Nothing")
 """
 
-light = input("light: ")
+# light = input("green")
+light = input()
 if(light == "red"):
     print("stop")
 elif(light == "yellow"):
